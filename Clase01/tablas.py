@@ -1,4 +1,5 @@
-# Alumna: Margarita Sanchez
+# Name: Margarita Sanchez
+# Update Tablas
 
 saldo = 500000.0
 tasa = 0.05
